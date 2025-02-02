@@ -36,7 +36,7 @@ where:
 - $U(s_i)$ is the expected utility of strategy $s_i$.
 - $\bar{U}$ is the average utility of all strategies.
 
-A strategy s^* is said to be **_Evolutionarily Stable (ESS)_** if, when a small fraction of a mutant strategy s' appears, it has a lower fitness than s^*, meaning:
+A strategy $s^* is said to be **Evolutionarily Stable (ESS)** if, when a small fraction of a mutant strategy $s'$ appears, it has a lower fitness than $s^*$, meaning:
 
 $$U(s^*, s') > U(s', s')$$
 
